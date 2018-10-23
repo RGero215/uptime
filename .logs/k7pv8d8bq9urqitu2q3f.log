@@ -1,0 +1,1 @@
+{"check":{"id":"k7pv8d8bq9urqitu2q3f","userPhone":"2018510284","protocol":"https","url":"yahoo.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":3,"state":"down","lastChecked":3},"outcome":{"error":false,"responseCode":301},"state":"up","alert":true,"time":1540308556348}
